@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "ili9341.h": "c",
+        "image.h": "c",
+        "colors.h": "c",
+        "flappybird.h": "c",
+        "semphr.h": "c"
+    }
+}
